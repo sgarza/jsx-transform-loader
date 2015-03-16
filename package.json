@@ -1,0 +1,21 @@
+{
+  "name": "jsx-transform-loader",
+  "version": "1.0.0",
+  "description": "Configurable jsx transform loader decoupled from react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "loader",
+    "transform"
+  ],
+  "author": "Sergio de la Garza <sergio@delagarza.io> (http://delagarza.io)",
+  "license": "ISC",
+  "dependencies": {
+    "jsx-transform": "^0.11.3",
+    "loader-utils": "^0.2.6"
+  }
+}
