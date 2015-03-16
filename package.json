@@ -10,7 +10,8 @@
     "react",
     "jsx",
     "loader",
-    "transform"
+    "transform",
+    "webpack"
   ],
   "author": "Sergio de la Garza <sergio@delagarza.io> (http://delagarza.io)",
   "license": "ISC",
