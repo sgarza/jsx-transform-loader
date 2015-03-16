@@ -1,7 +1,8 @@
 {
   "name": "jsx-transform-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configurable jsx transform loader decoupled from react",
+  "repository": "https://github.com/sgarza/jsx-transform-loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
