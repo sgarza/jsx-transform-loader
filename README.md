@@ -1,4 +1,4 @@
-# JSX transform loader for webpack decoupled from webpack
+# JSX transform loader for webpack decoupled from React
 
 ## Usage:
 
@@ -7,6 +7,10 @@
 ```
 
 ## Example
+
+### docblock
+
+Only files with the /** @jsx DOM */ docblock will be parsed.
 
 ### React
 

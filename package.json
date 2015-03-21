@@ -1,6 +1,6 @@
 {
   "name": "jsx-transform-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Configurable jsx transform loader decoupled from react",
   "repository": "https://github.com/sgarza/jsx-transform-loader",
   "main": "index.js",
